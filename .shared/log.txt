@@ -5775,3 +5775,171 @@ shared encoded!
 cloud login for lvndr-416
 now compiling...
 ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_game
+encoding bg with lv-encoder-png -c true
+encoding hero with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+merging scene_game files
+generating scene_main
+encoding guys with lv-encoder-png -c true
+encoding logo_senac with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+merging scene_main files
+scene_game encoded!
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_game
+encoding bg with lv-encoder-png -c true
+encoding hero with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+merging scene_game files
+generating scene_main
+encoding guys with lv-encoder-png -c true
+encoding logo_senac with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+merging scene_main files
+scene_game encoded!
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_game
+encoding bg with lv-encoder-png -c true
+encoding hero with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+merging scene_game files
+generating scene_main
+encoding guys with lv-encoder-png -c true
+encoding logo_senac with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+merging scene_main files
+scene_game encoded!
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_game
+encoding bg with lv-encoder-png -c true
+encoding hero with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+merging scene_game files
+generating scene_main
+encoding guys with lv-encoder-png -c true
+encoding logo_senac with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+merging scene_main files
+scene_game encoded!
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_game
+encoding bg with lv-encoder-png -c true
+encoding hero with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+merging scene_game files
+generating scene_main
+encoding guys with lv-encoder-png -c true
+encoding logo_senac with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+merging scene_main files
+scene_game encoded!
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_game
+encoding bg with lv-encoder-png -c true
+encoding hero with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+merging scene_game files
+generating scene_main
+encoding guys with lv-encoder-png -c true
+encoding logo_senac with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+merging scene_main files
+scene_game encoded!
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_game
+encoding bg with lv-encoder-png -c true
+encoding hero with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+merging scene_game files
+generating scene_main
+encoding guys with lv-encoder-png -c true
+encoding logo_senac with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+merging scene_main files
+scene_game encoded!
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_game
+encoding bg with lv-encoder-png -c true
+encoding hero with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+merging scene_game files
+generating scene_main
+encoding guys with lv-encoder-png -c true
+encoding logo_senac with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+merging scene_main files
+scene_game encoded!
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
