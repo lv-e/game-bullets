@@ -1,0 +1,94 @@
+{
+ "scenes": [
+  {
+   "files": [
+    {
+     "path": "/lv/project/scene_game/bg.png",
+     "name": "bg",
+     "extension": ".png"
+    },
+    {
+     "path": "/lv/project/scene_game/hero.png",
+     "name": "hero",
+     "extension": ".png"
+    },
+    {
+     "path": "/lv/project/scene_game/main.lvcode",
+     "name": "main",
+     "extension": ".lvcode"
+    }
+   ],
+   "path": "/lv/project/scene_game",
+   "name": "scene_game",
+   "directories": []
+  },
+  {
+   "files": [
+    {
+     "path": "/lv/project/scene_main/guys.png",
+     "name": "guys",
+     "extension": ".png"
+    },
+    {
+     "path": "/lv/project/scene_main/logo_senac.png",
+     "name": "logo_senac",
+     "extension": ".png"
+    },
+    {
+     "path": "/lv/project/scene_main/main.lvcode",
+     "name": "main",
+     "extension": ".lvcode"
+    }
+   ],
+   "path": "/lv/project/scene_main",
+   "name": "scene_main",
+   "directories": []
+  }
+ ],
+ "shared": [
+  {
+   "files": [
+    {
+     "path": "/lv/project/shared/main.lvcode",
+     "name": "main",
+     "extension": ".lvcode"
+    }
+   ],
+   "path": "/lv/project/shared",
+   "name": "shared",
+   "directories": []
+  }
+ ],
+ "unused": [
+  {
+   "files": [],
+   "path": "/lv/project/.bin",
+   "name": ".bin",
+   "directories": []
+  },
+  {
+   "files": [
+    {
+     "path": "/lv/project/.shared/log.txt",
+     "name": "log",
+     "extension": ".txt"
+    },
+    {
+     "path": "/lv/project/.shared/project.json",
+     "name": "project",
+     "extension": ".json"
+    }
+   ],
+   "path": "/lv/project/.shared",
+   "name": ".shared",
+   "directories": []
+  }
+ ],
+ "project_file": {
+  "path": "/lv/project/game.lvproject",
+  "name": "game",
+  "extension": ".lvproject"
+ },
+ "tag": "299b9d4cfa3537e892086578385da865",
+ "generated_at": "2020-11-30T04:43:35.880Z"
+}

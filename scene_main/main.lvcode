@@ -1,0 +1,69 @@
+{
+	"header": {
+		"content_type": "lvcode",
+		"flavor": "scene",
+		"version": "1.0.0"
+	},
+	"body": {
+		"declarations": {
+			"code": [
+				"int frame;"
+			]
+		},
+		"on_enter": {
+			"code": [
+				"frame = 0;",
+				""
+			]
+		},
+		"on_frame": {
+			"code": [
+				"",
+				"frame++;",
+				"",
+				"lvDisplay.clear(0);",
+				"",
+				"int x = (lvk_display_w - 128)/2;",
+				"int y = (lvk_display_h - 128)/2;",
+				"",
+				"// - wait_time - [ senac ] - [ creds ] - wait_time",
+				"",
+				"int wait_time = 30;",
+				"int secs_displaying = 3;",
+				"",
+				"int senax_start = wait_time;",
+				"int senac_end = senax_start + 30 * secs_displaying;",
+				"int guys_start = senac_end;",
+				"int guys_end = senac_end + 30 * secs_displaying;",
+				"int intro_end = guys_end + 30;",
+				"",
+				"if(frame > senax_start && frame < senac_end) {",
+				"    PNG::logo_senac->draw(x, y);",
+				"}",
+				"",
+				"x = (lvk_display_w - 128)/2;",
+				"y = (lvk_display_h - 32)/2;",
+				"",
+				"if(frame > guys_start && frame < guys_end) {",
+				"    PNG::guys->draw(x, y);",
+				"}",
+				"",
+				"if(frame > 2) {",
+				"    lvDirector.runScene(SCENE_GAME);",
+				"}",
+				""
+			]
+		},
+		"on_awake": {
+			"code": [
+				"",
+				""
+			]
+		},
+		"on_exit": {
+			"code": [
+				" "
+			]
+		}
+	}
+}
