@@ -22,7 +22,7 @@
 				"properties": {
 					"display_width": 130,
 					"display_heigth": 130,
-					"debug_mode": false
+					"debug_mode": true
 				}
 			}
 		],
